@@ -1,0 +1,13 @@
+---
+title: "Testing Quarto Docs"
+format: html
+editor: visual
+---
+
+My *first* version controlled quarto project in RStudio. 
+
+```{r}
+plot(cars)
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
